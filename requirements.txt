@@ -1,0 +1,6 @@
+markdown-it-py==2.2.0
+mdurl==0.1.2
+Pygments==2.16.1
+pypdf==3.15.1
+rich==13.5.2
+typing_extensions==4.7.1
